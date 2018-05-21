@@ -1,0 +1,28 @@
+{
+  "name": "fire-progress-bar",
+  "version": "1.0.0",
+  "description": "Fire progress bar",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jobsboris27/progress-bar.io.git"
+  },
+  "keywords": [
+    "progress",
+    "progress-bar",
+    "progressbar"
+  ],
+  "author": "Boris jobsboris27@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jobsboris27/progress-bar/issues"
+  },
+  "homepage": "https://github.com/jobsboris27/progress-bar#readme",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.2.0"
+  }
+}
